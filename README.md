@@ -14,7 +14,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+I am <a href="https://aiwaldoh.github.io/">AiWaldoh</a> Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 - 🔭 In 15+ years as a freelancer, I've worn many hats : Developper, Cybersecurity, Dev-Ops, Linux System Administration, Cloud (AWS, Google) to name a few.
 - 🌱 Exploring AI technologies such as LangChain and vector databases to see how this AI revolution will shape the future.
