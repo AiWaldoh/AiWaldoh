@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 In 15+ years as a freelancer, I've worn many hats : Developper, Cybersecurity, Dev-Ops, Linux System Administration, Cloud (AWS, Google) to name a few.
 - 🌱 Exploring AI technologies such as LangChain and vector databases to see how this AI revolution will shape the future.
 - ⚡ In my free time I tinker with raspberry Pi's and build interesting tools.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aiwaldoh)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-aiwaldoh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aiwaldoh)
 
 ---
 
