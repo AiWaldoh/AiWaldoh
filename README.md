@@ -14,11 +14,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am <a href="https://aiwaldoh.github.io/">AiWaldoh</a>, Software Engineer from Canada.
+I am <a href="https://aiwaldoh.github.io/">AiWaldoh</a> and I like to build stuff.
 
-- 🔭 In my 15+ years of coding, I've worn many hats : Developper, Cybersecurity, Dev-Ops, Linux System Administration, Cloud Engineer (AWS, Google) to name a few.
-- 🌱 My passion is exploring AI technologies such as LangChain and vector databases to see how this AI revolution will shape the future.
-- ⚡ In my free time I tinker with raspberry Pi's and build interesting tools.
+- 🔭 In my 15+ years of coding, I've worn many hats : Backend & Frontend Developper, Cybersecurity, Dev-Ops, Linux System Administration, Web3/crypto/DeFi Developer and now AI/Langchain/Vector DB's.
+- 🌱 I can't stop building tools with AI. I just can't. Check out my auto formatting Smarty Notes project. Who needs 324 fonts and "right alignment". Have you ever aligned your notes to the right? Well... I haven't, so there's no right align button!
+- ⚡ In my free time I tinker with raspberry Pi's and build really really interesting tools. I'm serious.
 
 ---
 
@@ -33,6 +33,16 @@ I am <a href="https://aiwaldoh.github.io/">AiWaldoh</a>, Software Engineer from 
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original.svg" title="CakePHP" **alt="CakePHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" **alt="BitBucket" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="digitalocean" **alt="digitalocean" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" **alt="dotnetcore" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" **alt="googlecloud" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" **alt="kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" **alt="jira" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>&nbsp;
 </p>
 
 
