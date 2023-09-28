@@ -17,8 +17,8 @@
 I am <a href="https://aiwaldoh.github.io/">AiWaldoh</a> and I like to build stuff.
 
 - 🔭 In my 15+ years of coding, I've worn many hats : Backend & Frontend Developper, Cybersecurity, Dev-Ops, Linux System Administration, Web3/crypto/DeFi Developer and now AI/Langchain/Vector DB's.
-- 🌱 I can't stop building tools with AI. I just can't!
-- ⚡ In my free time I tinker with raspberry Pi's and build really really interesting tools.
+- 🌱 I can't stop building tools with AI. I loved Google News in 2009 so I re-created it with the old algorithm.
+- ⚡ In my free time I tinker with raspberry Pi's and build interesting tools.
 
 ---
 
