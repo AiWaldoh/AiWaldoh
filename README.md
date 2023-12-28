@@ -1,12 +1,5 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/gptcoder-pro"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/aiwaldoh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://gptcoder.pro" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -15,10 +8,6 @@
 ### :man_technologist: &nbsp;About Me :
 
 I am <a href="https://aiwaldoh.github.io/">AiWaldoh</a> and I like to build stuff.
-
-- 🔭 In my 15+ years of coding, I've worn many hats : Backend & Frontend Developper, Cybersecurity, Dev-Ops, Linux System Administration, Web3/crypto/DeFi Developer and now AI/Langchain/Vector DB's.
-- 🌱 I can't stop building tools with AI. I loved Google News in 2009 so I re-created it with the old algorithm.
-- ⚡ In my free time I tinker with raspberry Pi's and build interesting tools.
 
 ---
 
